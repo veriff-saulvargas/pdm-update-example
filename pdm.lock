@@ -9,7 +9,7 @@ content_hash = "sha256:e2dde779a78be55fa11f104a2c9426a32bfa3234bf3873854bf690ba8
 
 [[package]]
 name = "pydantic"
-version = "1.10.13"
+version = "1.10.14"
 requires_python = ">=3.7"
 summary = "Data validation and settings management using python type hints"
 groups = ["default"]
@@ -17,8 +17,8 @@ dependencies = [
     "typing-extensions>=4.2.0",
 ]
 files = [
-    {file = "pydantic-1.10.13-py3-none-any.whl", hash = "sha256:b87326822e71bd5f313e7d3bfdc77ac3247035ac10b0c0618bd99dcf95b1e687"},
-    {file = "pydantic-1.10.13.tar.gz", hash = "sha256:32c8b48dcd3b2ac4e78b0ba4af3a2c2eb6048cb75202f0ea7b34feb740efc340"},
+    {file = "pydantic-1.10.14-py3-none-any.whl", hash = "sha256:8ee853cd12ac2ddbf0ecbac1c289f95882b2d4482258048079d13be700aa114c"},
+    {file = "pydantic-1.10.14.tar.gz", hash = "sha256:46f17b832fe27de7850896f3afee50ea682220dd218f7e9c88d436788419dca6"},
 ]
 
 [[package]]
