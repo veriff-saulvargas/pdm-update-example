@@ -5,7 +5,7 @@
 groups = ["default"]
 strategy = ["cross_platform", "inherit_metadata"]
 lock_version = "4.4.1"
-content_hash = "sha256:5f1798720ebade7ca0947fe32682c68a2c9ea7d7ee7f915365fdd4b9d83c259a"
+content_hash = "sha256:e2dde779a78be55fa11f104a2c9426a32bfa3234bf3873854bf690ba8c06e8e0"
 
 [[package]]
 name = "pydantic"
